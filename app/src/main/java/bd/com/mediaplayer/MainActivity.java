@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity implements SurfaceHolder.Cal
 // Prepare the player with the source.
         player.prepare(videoSource);
         player.setPlayWhenReady(true);
-
+//https://drive.google.com/file/d/1JsqLpwFFEwIdTTRhG7T7SZWEEabDPkTg/view?usp=sharing
 
     }
 
